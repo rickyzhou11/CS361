@@ -1,7 +1,7 @@
 import java.io.*;
 
 import java.util.*;
-//Chuyu Zhou CZ568 rickyzhou@utexas.edu
+//rickyzhou@utexas.edu
 
 public class SecureSystem {
 
